@@ -34,3 +34,11 @@ To develop digital literacy skills, build professional online presence, improve 
 link for the digital literacy quiz
 https://forms.gle/YeRJus63dkYPSo3f7
 
+link for kaggle profile
+https://www.kaggle.com/
+
+link for linkdinprofile
+https://www.linkedin.com/in/shrestha-sarkar-434a7037a/
+
+
+
