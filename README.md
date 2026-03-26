@@ -40,5 +40,8 @@ https://www.kaggle.com/
 link for linkdinprofile
 https://www.linkedin.com/in/shrestha-sarkar-434a7037a/
 
+link of the hackerrank certificate
+https://www.hackerrank.com/certificates/2e89d70edbfb
+
 
 
