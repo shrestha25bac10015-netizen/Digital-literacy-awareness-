@@ -1,9 +1,15 @@
 **# Digital-literacy-awareness-**
+
 **Course: CSE0001 – Digital Literacy Student**
+
 **Name: SHRESTHA SARKAR** 
+
 **Registration Number: 25BAC10015**
+
 **University: VIT Bhopal University** 
+
 **Course Type: 1 Credit (Pass/Fail)**
+
 **Project Overview**
 
 This Digital Literacy Awareness Project was developed as part of the CSE0001 Digital Literacy course. The objective of this project is to build essential digital skills, create a professional online presence,and promote responsible and safe use of digital platforms. As a Student Digital Ambassador, the project focuses on helping students understand digital literacy concepts, professional communication, online collaboration, and cyber safety.
