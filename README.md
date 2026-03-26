@@ -5,7 +5,7 @@
 **University: VIT Bhopal University** 
 **Course Type: 1 Credit (Pass/Fail)**
 **Project Overview**
-This Digital Literacy Awareness Project was developed as part of the CSE0001 Digital Literacy course. The objective of this project is to build essential digital skills, create a professional online presence, and promote responsible and safe use of digital platforms. As a Student Digital Ambassador, the project focuses on helping students understand digital literacy concepts, professional communication, online collaboration, and cyber safety.
+This Digital Literacy Awareness Project was developed as part of the CSE0001 Digital Literacy course. The objective of this project is to build essential digital skills, create a professional online presence,and promote responsible and safe use of digital platforms. As a Student Digital Ambassador, the project focuses on helping students understand digital literacy concepts, professional communication, online collaboration, and cyber safety.
 The project consists of five modules, each focusing on a specific digital skill. All tasks, screenshots, and reports are organized in this GitHub repository as a structured digital portfolio. This repository demonstrates my learning, digital awareness, and professional online development.
 Module Summaries Module 1 – Digital Literacy Awareness Infographic
 In this task, I created a digital literacy infographic using Canva. The poster explains digital literacy, useful digital tools, safe internet practices, and professional online presence. The infographic was exported and added to the repository along with a short reflection explaining the design and learning experience.
